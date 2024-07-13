@@ -14,15 +14,15 @@ public class ProductsDTO {
 
     @JsonProperty(value = "id")
     private Long id;
-    @JsonProperty(value = "titulo")
+    @JsonProperty(value = "title")
     private String name;
-    @JsonProperty(value = "preco")
+    @JsonProperty(value = "price")
     private BigDecimal price;
-    @JsonProperty(value = "categoria")
+    @JsonProperty(value = "cetegory")
     private String category;
-    @JsonProperty(value = "descricao")
+    @JsonProperty(value = "description")
     private String description;
-    @JsonProperty(value = "imagem")
+    @JsonProperty(value = "image")
     private String image;
 
 }
