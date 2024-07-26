@@ -1,6 +1,6 @@
 package com.produtos.fake_api.api;
 
-import com.produtos.fake_api.business.FakeApiService;
+import com.produtos.fake_api.business.service.FakeApiService;
 import com.produtos.fake_api.dto.ProductsDTO;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;

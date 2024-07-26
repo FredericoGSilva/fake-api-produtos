@@ -1,4 +1,4 @@
-package com.produtos.fake_api.infraestructure;
+package com.produtos.fake_api.infraestructure.client;
 
 import com.produtos.fake_api.dto.ProductsDTO;
 import org.springframework.cloud.openfeign.FeignClient;
